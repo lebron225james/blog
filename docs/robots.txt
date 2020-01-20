@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://lebron225james.github.io/blog/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml

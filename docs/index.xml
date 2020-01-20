@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Even - A super concise theme for Hugo</title>
-    <link>https://lebron225james.github.io/blog/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 Jan 2020 15:08:49 +0800</lastBuildDate>
     
-	<atom:link href="https://lebron225james.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://lebron225james.github.io/blog/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://lebron225james.github.io/blog/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
@@ -24,10 +24,19 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>Python</title>
-      <link>https://lebron225james.github.io/blog/post/python/</link>
+      <link>http://localhost:1313/post/2020.1.20/</link>
       <pubDate>Wed, 08 Jan 2020 15:08:49 +0800</pubDate>
       
-      <guid>https://lebron225james.github.io/blog/post/python/</guid>
+      <guid>http://localhost:1313/post/2020.1.20/</guid>
+      <description>github入门与实践 基本操作 git init ——初始化仓库</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/post/python/</link>
+      <pubDate>Wed, 08 Jan 2020 15:08:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/python/</guid>
       <description># python哲学 输出 打印(3种输出方法) print(&amp;quot;name is :&amp;quot;+name) 通过连接符 + 拼接 print(&amp;quot;name is : %s&amp;quot; %name) 通过格式符 %s,%d 替换 print(&amp;quot;name is :{}&amp;quot;.format{name}) 通过格式化函数 format{} 格式化 引号和注释 “ ” 双引号 和</description>
     </item>
     
